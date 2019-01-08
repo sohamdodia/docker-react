@@ -1,4 +1,4 @@
-sudo: requireee
+sudo: require
 services:
   - docker
 
